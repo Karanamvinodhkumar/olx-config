@@ -2,7 +2,7 @@
 spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/olx_adverti
+    url: jdbc:mysql://localhost:3306/olx_advertise
     username: root
     password: root
   jpa:
